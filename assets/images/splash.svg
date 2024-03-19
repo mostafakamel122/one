@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="splash" width="390" height="766" viewBox="0 0 390 766" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; max-height: 100%;">
+<rect width="390" height="766" fill="white" stroke-dasharray="0,0,0,2312"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.5s" values="0,0,0,2312; 
+          0,1156,1156,0; 
+          2312,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></rect>
+<path d="M167.9 360.953L165.611 359.259C165.597 359.249 165.597 359.245 165.58 359.243C165.039 359.171 143.452 356.352 138.142 362.642C133.078 368.641 131.242 384.915 139.142 391.619C148.601 399.648 176.332 399.738 185.062 391.619C189.93 387.093 189.449 377.117 186.087 369.484C186.072 369.449 186.037 369.426 185.999 369.425L175.738 369.119L175.738 368.011L181.9 359.549L188.015 359.549C188.045 359.549 188.073 359.562 188.092 359.585L218.943 396.584C218.962 396.606 218.99 396.62 219.019 396.62L226.028 396.62C226.083 396.62 226.128 396.575 226.128 396.52L226.128 360.459C226.128 360.404 226.172 360.359 226.228 360.359L259.09 360.359M235.402 378.469L246.746 378.469L259.09 378.469M235.402 395.62L246.746 395.62L259.09 395.62" stroke="black" stroke-width="11.6" stroke-miterlimit="2.2042" stroke-dasharray="0,0,0,334.440673828125"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.5s" values="0,0,0,334.440673828125; 
+          0,167.2203369140625,167.2203369140625,0; 
+          334.440673828125,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<setting>{"type":"direct","speed":20,"random":1,"shift":1,"size":1,"rupture":50}</setting></svg>
